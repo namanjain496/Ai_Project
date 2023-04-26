@@ -1,1 +1,1 @@
-# Ai_Project
+# aiproject-image-classifier
